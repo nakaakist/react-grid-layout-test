@@ -6,3 +6,7 @@
   background: #fff;
   border: #ccc 1px solid;
 }
+
+.data {
+  display: flex;
+}
